@@ -9,14 +9,14 @@
       "platforms": [
         {
           "category": "ESP8266", 
-          "name": "esp8266", 
+          "name": "firebeetle8266", 
           "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/firebeetle8266-2.3.0.zip", 
           "checksum": "SHA-256:1096e73df3adf548b937c990f641fc64b08f5e522644e1b8e6dd415e1c1bc416", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
           }, 
           "version": "2.3.0", 
-          "architecture": "esp8266", 
+          "architecture": "firebeetle8266", 
           "archiveFileName": "firebeetle8266-2.3.0.zip", 
           "boards": [
             {
@@ -25,17 +25,17 @@
           ], 
           "toolsDependencies": [
             {
-              "packager": "esp8266", 
+              "packager": "firebeetle8266", 
               "version": "0.4.11", 
               "name": "esptool"
             }, 
             {
-              "packager": "esp8266", 
+              "packager": "firebeetle8266", 
               "version": "1.20.0-26-gb404fb9-2", 
               "name": "xtensa-lx106-elf-gcc"
             }, 
             {
-              "packager": "esp8266", 
+              "packager": "firebeetle8266", 
               "version": "0.1.2", 
               "name": "mkspiffs"
             }
