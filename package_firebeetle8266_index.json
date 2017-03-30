@@ -10,7 +10,7 @@
         {
           "category": "ESP8266", 
           "name": "esp8266", 
-          "url": "https://github.com/DFRobot/FireBeetle-ESP8266/releases/download/raw/firebeetle8266-2.3.0.zip", 
+          "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/firebeetle8266-2.3.0.zip", 
           "checksum": "SHA-256:1096e73df3adf548b937c990f641fc64b08f5e522644e1b8e6dd415e1c1bc416", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
@@ -91,89 +91,48 @@
               "size": "34938475"
             }
           ]
-        }, 
-        {
-          "version": "1.20.0-26-gb404fb9", 
-          "name": "xtensa-lx106-elf-gcc", 
-          "systems": [
-            {
-              "url": "http://arduino.esp8266.com/win32-xtensa-lx106-elf-gb404fb9.tar.gz", 
-              "checksum": "SHA-256:1561ec85cc58cab35cc48bfdb0d0087809f89c043112a2c36b54251a13bf781f", 
-              "host": "i686-mingw32", 
-              "archiveFileName": "win32-xtensa-lx106-elf-gb404fb9.tar.gz", 
-              "size": "153807368"
-            }, 
-            {
-              "url": "http://arduino.esp8266.com/osx-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
-              "checksum": "SHA-256:0cf150193997bd1355e0f49d3d49711730035257bc1aee1eaaad619e56b9e4e6", 
-              "host": "x86_64-apple-darwin", 
-              "archiveFileName": "osx-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
-              "size": "35385382"
-            }, 
-            {
-              "url": "http://arduino.esp8266.com/osx-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
-              "checksum": "SHA-256:0cf150193997bd1355e0f49d3d49711730035257bc1aee1eaaad619e56b9e4e6", 
-              "host": "i386-apple-darwin", 
-              "archiveFileName": "osx-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
-              "size": "35385382"
-            }, 
-            {
-              "url": "http://arduino.esp8266.com/linux64-xtensa-lx106-elf-gb404fb9.tar.gz", 
-              "checksum": "SHA-256:46f057fbd8b320889a26167daf325038912096d09940b2a95489db92431473b7", 
-              "host": "x86_64-pc-linux-gnu", 
-              "archiveFileName": "linux64-xtensa-lx106-elf-gb404fb9.tar.gz", 
-              "size": "30262903"
-            }, 
-            {
-              "url": "http://arduino.esp8266.com/linux32-xtensa-lx106-elf.tar.gz", 
-              "checksum": "SHA-256:b24817819f0078fb05895a640e806e0aca9aa96b47b80d2390ac8e2d9ddc955a", 
-              "host": "i686-pc-linux-gnu", 
-              "archiveFileName": "linux32-xtensa-lx106-elf.tar.gz", 
-              "size": "32734156"
-            }
-          ]
-        }, 
+        },
         {
           "version": "0.4.11", 
           "name": "esptool", 
           "systems": [
             {
-              "url": "https://github.com/igrr/esptool-ck/releases/download/0.4.9/esptool-0.4.11-win32.zip", 
-              "checksum": "SHA-256:9c4162cedf05fcb09fd829bfb90e34ae12458365980d79525a072ff5ca44751c", 
+              "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-win32.zip", 
+              "checksum": "SHA-256:40535eaab0b811f17127792b068f2b11d6e98dae4271de68c9a3c6ba183659bd", 
               "host": "i686-mingw32", 
               "archiveFileName": "esptool-0.4.9-win32.zip", 
-              "size": "32436"
+              "size": "18519"
             }, 
             {
-              "url": "https://github.com/igrr/esptool-ck/releases/download/0.4.9/esptool-0.4.11-osx.tar.gz", 
+              "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-osx.tar.gz", 
               "checksum": "SHA-256:57938b473765723a7e6602d55973017b7719bda69bdcff4250b24fcbf7a399f5", 
               "host": "x86_64-apple-darwin", 
               "archiveFileName": "esptool-0.4.9-osx.tar.gz", 
               "size": "29310"
             }, 
             {
-              "url": "https://github.com/igrr/esptool-ck/releases/download/0.4.9/esptool-0.4.11-osx.tar.gz", 
+              "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-osx.tar.gz", 
               "checksum": "SHA-256:57938b473765723a7e6602d55973017b7719bda69bdcff4250b24fcbf7a399f5", 
               "host": "i386-apple-darwin", 
               "archiveFileName": "esptool-0.4.9-osx.tar.gz", 
               "size": "29310"
             }, 
             {
-              "url": "https://github.com/igrr/esptool-ck/releases/download/0.4.9/esptool-0.4.11-linux64.tar.gz", 
+              "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-linux64.tar.gz", 
               "checksum": "SHA-256:fab9d1be8a648bea6728ad5c9d18ce972508187700cf90baf1897ac9cdf4db15", 
               "host": "x86_64-pc-linux-gnu", 
               "archiveFileName": "esptool-0.4.9-linux64.tar.gz", 
               "size": "15564"
             }, 
             {
-              "url": "https://github.com/igrr/esptool-ck/releases/download/0.4.9/esptool-0.4.11-linux32.tar.gz", 
+              "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-linux32.tar.gz", 
               "checksum": "SHA-256:bc4444d73d59be74608be5e1431353a0a9ae9e308e99c76a271d68a6ae145b7b", 
               "host": "i686-pc-linux-gnu", 
               "archiveFileName": "esptool-0.4.9-linux32.tar.gz", 
               "size": "15984"
             }, 
             {
-              "url": "https://github.com/igrr/esptool-ck/releases/download/0.4.9/esptool-0.4.11-linux-armhf.tar.gz", 
+              "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-linux-armhf.tar.gz", 
               "checksum": "SHA-256:d0364492599d90b8305125f8212de5be05397e4efde2fc7d0ed3676bb7018164", 
               "host": "arm-linux-gnueabihf", 
               "archiveFileName": "esptool-0.4.9-linux-armhf.tar.gz", 
