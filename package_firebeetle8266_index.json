@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "maintainer": "ESP8266 Community", 
+      "maintainer": "DFRobot", 
       "help": {
         "online": "http://esp8266.com/arduino"
       }, 
@@ -142,7 +142,7 @@
         }
       ], 
       "email": "ivan@esp8266.com", 
-      "name": "esp8266"
+      "name": "firebeetle8266"
     }
   ]
 }
