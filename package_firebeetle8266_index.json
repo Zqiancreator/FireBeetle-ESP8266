@@ -17,7 +17,7 @@
           }, 
           "version": "2.3.0", 
           "architecture": "esp8266", 
-          "archiveFileName": "esp8266-2.3.0.zip", 
+          "archiveFileName": "firebeetle8266-2.3.0.zip", 
           "boards": [
             {
               "name": "FireBeetle-ESP8266"
