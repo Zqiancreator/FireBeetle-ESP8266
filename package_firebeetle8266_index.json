@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "ESP8266", 
-          "name": "firebeetle8266", 
+          "name": "FireBeetle-ESP8266", 
           "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/firebeetle8266-2.3.0.zip", 
           "checksum": "SHA-256:1096e73df3adf548b937c990f641fc64b08f5e522644e1b8e6dd415e1c1bc416", 
           "help": {
