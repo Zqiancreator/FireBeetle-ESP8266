@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "maintainer": "DFRobot", 
+      "maintainer": "DFRobot DFRduino", 
       "help": {
         "online": "http://esp8266.com/arduino"
       }, 
