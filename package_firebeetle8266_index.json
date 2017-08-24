@@ -11,7 +11,7 @@
           "category": "ESP8266", 
           "name": "FireBeetle-ESP8266", 
           "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/firebeetle8266-2.3.0.zip", 
-          "checksum": "SHA-256:04ebf525cff39cd0bb0921c182fe394310e5869b3139345bee8f035c1549e5c7", 
+          "checksum": "SHA-256:8274b7b57f7ce763f843dc49c2322eefb16a7522bfd367778bf54db7e8871ee6", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
           }, 
@@ -40,7 +40,7 @@
               "name": "mkspiffs"
             }
           ], 
-          "size": "8361768"
+          "size": "8361775"
         }
       ], 
       "tools": [
