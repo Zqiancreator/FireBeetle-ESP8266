@@ -147,10 +147,10 @@
             },
             {
               "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-linux64.tar.gz", 
-              "checksum": "SHA-256:fab9d1be8a648bea6728ad5c9d18ce972508187700cf90baf1897ac9cdf4db15", 
+              "checksum": "SHA-256:fb730458f24d466eb8bcc9eb1d5b1603fe2b8f4a7430e3153b0e772e288bd90a", 
               "host": "x86_64-pc-linux-gnu", 
               "archiveFileName": "esptool-0.4.11-linux64.tar.gz", 
-              "size": "15564"
+              "size": "15058"
             }, 
             {
               "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP8266/master/esptool-0.4.11-linux32.tar.gz", 
