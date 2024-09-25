@@ -119,7 +119,7 @@
           "name": "xtensa-lx106-elf-gcc", 
           "systems": [
             {
-              "url": "http://download3.dfrobot.com.cn/FireBeetle/win32-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
+              "url": "http://download.dfrobot.top/FireBeetle/win32-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
               "checksum": "SHA-256:10476b9c11a7a90f40883413ddfb409f505b20692e316c4e597c4c175b4be09c", 
               "host": "i686-mingw32", 
               "archiveFileName": "win32-xtensa-lx106-elf-gb404fb9-2.tar.gz", 
